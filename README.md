@@ -1,2 +1,2 @@
 # Portfolio-demo
-Git Portfolio-Demo setup
+Git Portfolio-Demo setup (Learning)
